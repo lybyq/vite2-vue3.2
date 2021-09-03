@@ -1,0 +1,5 @@
+/dist/*
+/node_modules/**
+**/*.svg
+/public/*
+/src/styles/Theme/*
